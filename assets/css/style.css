@@ -1709,4 +1709,7 @@ a {
 .overflow-hidden {
   overflow: hidden; }
 
+img.light {
+  max-width: 500px;
+}
 /*# sourceMappingURL=style.css.map */
