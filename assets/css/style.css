@@ -1709,7 +1709,24 @@ a {
 .overflow-hidden {
   overflow: hidden; }
 
+/* Custom CSS by Erik */
+
 img.light {
   max-width: 500px;
 }
+
+img.dark {
+  max-width: 500px;
+}
+
+@media (max-width: 350px) {
+  img.light {
+    max-width: 250px;
+  }
+
+  img.dark {
+    max-width: 250px;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
