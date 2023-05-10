@@ -1719,13 +1719,13 @@ img.dark {
   max-width: 500px;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 450px) {
   img.light {
-    max-width: 250px;
+    max-width: 270px;
   }
 
   img.dark {
-    max-width: 250px;
+    max-width: 270px;
   }
 }
 
