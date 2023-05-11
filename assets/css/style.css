@@ -1721,11 +1721,11 @@ img.dark {
 
 @media (max-width: 450px) {
   img.light {
-    max-width: 270px;
+    max-width: 250px;
   }
 
   img.dark {
-    max-width: 270px;
+    max-width: 250px;
   }
 }
 
